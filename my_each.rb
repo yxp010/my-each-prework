@@ -1,4 +1,4 @@
-def my_each（words) # put argument(s) here
+def my_each(words)
   # code here
   counter = 0
   while counter < words.count
